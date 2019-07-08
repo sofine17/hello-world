@@ -1,2 +1,3 @@
 # hello-world
-hello-world repository for learning VCS Git
+hello-world repository for learning CSV Git
+New skill for more opportunities
